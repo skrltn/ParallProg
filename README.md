@@ -68,7 +68,7 @@
 
 ## 3. Графики
 
-![Графики производительности CUDA](performance_plot_cuda.png)
+<img width="2100" height="750" alt="performance_plot_cuda" src="https://github.com/user-attachments/assets/3e7a3350-5aeb-4d1d-89b5-4707e0ca821f" />
 
 ## 4. Выводы
 
